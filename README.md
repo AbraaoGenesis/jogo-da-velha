@@ -2,11 +2,14 @@
 
 |   | 1 | 2 | 3 |
 |---|---|---|---|
-| A |   |   |   |
-| B |   |   |   |
-| C |   |   |   |
+| A |  ❌ |  ⭕ |❌   |
+| B |  ❌ |  ⭕ | ⭕  |
+| C |  ❌ |  ❌ |⭕   |
 
-**Legenda**
+**JOGADORES**
 
-- ❌ Primeiro jogador 
-- ⭕ Segundo jogador
+- ❌ **Abraão 1**
+- ⭕ **Abraão 2**
+
+## VENCEDOR
+- ❌  **Abraão 1**
